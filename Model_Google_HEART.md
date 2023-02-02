@@ -7,8 +7,10 @@
 > Heart 模型是从宏观的角度来衡量用户体验的有效性指标，这个指标会影响到公司策略。
 
 ## Heart 的 5 个衡量维度
-  - Happiness（愉悦感）
-  - Engagement（参与度）
-  - Adoption（接受度）
-  - Retention（留存率）
-  - Task Success（任务完成度）
+  - [x] Happiness（愉悦感）
+  - [] Engagement（参与度）
+  - [] Adoption（接受度）
+  - [] Retention（留存率）
+  - [] Task Success（任务完成度）
+
+### Happiness（愉悦感）
