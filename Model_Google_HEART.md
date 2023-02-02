@@ -8,9 +8,9 @@
 
 ## Heart 的 5 个衡量维度
   - [x] Happiness（愉悦感）
-  - [] Engagement（参与度）
-  - [] Adoption（接受度）
-  - [] Retention（留存率）
-  - [] Task Success（任务完成度）
+  - [ ] Engagement（参与度）
+  - [ ] Adoption（接受度）
+  - [ ] Retention（留存率）
+  - [ ] Task Success（任务完成度）
 
 ### Happiness（愉悦感）
