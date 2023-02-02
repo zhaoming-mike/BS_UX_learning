@@ -18,3 +18,12 @@
 > 愉悦感是设计用户体验中的主观感受问题，像满意度、视觉感受、向别人推荐的意愿、易用性感知。
 
 ![google heart model](google_heart.png)
+
+｜--｜--｜
+｜a｜b｜
+
+
+### Engagement（参与度）
+### Adoption（接受度）
+### Retention（留存率）
+### Task Success（任务完成度）
