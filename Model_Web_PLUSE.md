@@ -7,7 +7,7 @@
 
 > PLUSE 模型（Page view、Uptime、Latency、Seven days active user、Earning）：是传统的网站衡量指标。
 
-## Heart 的 5 个衡量维度
+## PLUSE 的 5 个衡量维度
   - [ ] Page view（页面浏览量）
   - [x] Latency（延迟）
   - [x] Uptime（正常运行时间）
